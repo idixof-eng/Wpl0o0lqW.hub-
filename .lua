@@ -1,3 +1,6 @@
+-- Join discord 
+--https://discord.gg/V36VkeHFXX
+
 local gameids = {
     121864768012064, -- fish it
     88116343972246, -- sleepy brairot
