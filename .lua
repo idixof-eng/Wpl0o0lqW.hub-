@@ -4,6 +4,7 @@
 local gameids = {
     121864768012064, -- fish it
     88116343972246, -- sleepy brairot
+    94590879393563, -- weird gun game
 }
 
 local id = game.PlaceId
@@ -14,6 +15,9 @@ if id == gameids[1] then
 elseif id == gameids[2] then
     loadstring(game:HttpGet("https://pastefy.app/zo2zurRI/raw"))() 
     print("Sleepy Brainrots loaded")
+elseif id == gameids[3] then
+    loadstring(game:HttpGet("https://pastefy.app/aAGy7Acm/raw"))()
+    print("Weird gun game loaded")
 else
     print("Not Supporting Gmae")
 end
