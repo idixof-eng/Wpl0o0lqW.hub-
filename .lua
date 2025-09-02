@@ -11,7 +11,7 @@ local gmids = {
 local id = game.PlaceId
 
 if id == gmids[1] then
-    loadstring(game:HttpGet("https://pastefy.app/wTuCRMJ3"))() -- join discord for direct script
+    loadstring(game:HttpGet("https://pastefy.app/wTuCRMJ3/raw"))() -- join discord for direct script
     print("Fish it loaded")
 elseif id == gmids[2] then
     loadstring(game:HttpGet("https://pastefy.app/zo2zurRI/raw"))() 
