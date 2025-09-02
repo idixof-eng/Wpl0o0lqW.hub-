@@ -11,7 +11,7 @@ local gmids = {
 local id = game.PlaceId
 
 if id == gmids[1] then
-    loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/e801b9c1a965ba7f"))()
+    loadstring(game:HttpGet("https://pastefy.app/wTuCRMJ3"))()
     print("Fish it loaded")
 elseif id == gmids[2] then
     loadstring(game:HttpGet("https://pastefy.app/zo2zurRI/raw"))() 
